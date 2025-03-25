@@ -1,0 +1,13 @@
+@layer base {
+  :root {
+    --font-display: "Comic Neue", cursive;
+    --font-display--font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+    --font-display--font-variation-settings: "opsz" 32;
+  }
+
+  body {
+    font-family: var(--font-display);
+    font-feature-settings: var(--font-display--font-feature-settings);
+    font-variation-settings: var(--font-display--font-variation-settings);
+  }
+}

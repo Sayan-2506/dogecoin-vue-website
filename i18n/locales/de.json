@@ -1,0 +1,266 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "whatIs": "Was ist Dogecoin?",
+    "wallets": "Viele Wallets",
+    "community": "Große Gemeinschaft",
+    "dogepedia": "Dogepädie",
+    "downList": {
+      "label1": "Dokumentation",
+      "label2": "FAQ",
+      "label3": "Anleitungen",
+      "label4": "Ressourcen"
+    }
+  },
+  "frontPage": {
+    "dogespeak": "Such Core Wallet 1.14.9 veröffentlicht! Vieles wurde aktualisiert, bitte!",
+    "peoplecurency": "Die Kryptowährung der Menschen"
+  },
+  "whatIsDogecoin": {
+    "dogetitle": "Was ist Dogecoin?",
+    "description": {
+      "line1": "Eine Open-Source-Peer-to-Peer-Digitalwährung, die von",
+      "line2": "Shiba Inus weltweit bevorzugt wird.",
+      "line3": "Im Kern ist Dogecoin die zufällige Krypto-Bewegung, die Menschen zum Lächeln bringt! Es ist auch eine Open-Source-Peer-to-Peer-Kryptowährung, die Blockchain-Technologie nutzt, ein hochsicheres dezentralisiertes System zur Speicherung von Informationen als öffentliches Hauptbuch, das von einem Netzwerk von Computern, den sogenannten Knoten, verwaltet wird.",
+      "line4": "Mehr als das ist jedoch die Ethik von Dogecoin, zusammengefasst im",
+      "manifestoLink": "Dogecoin Manifest",
+      "line5": "und seiner erstaunlichen, lebendigen Community, die aus freundlichen Menschen wie dir besteht!",
+      "learnMore": "Mehr erfahren"
+    }
+  },
+  "gettingStarted": {
+    "title": "Erster Schritt",
+    "button": "Mehr erfahren.",
+    "items": {
+      "item1": {
+        "tlte": "Wählen Sie Ihre Brieftasche",
+        "text": "Eine Brieftasche ist erforderlich, wenn Sie Dogecoin verwenden, handeln oder halten möchten. Sie können eine Brieftasche auswählen."
+      },
+      "item2": {
+        "tlte": "Richten Sie Ihre Brieftasche ein",
+        "text": "Nach dem Herunterladen können Sie Ihre Brieftasche gemäß unserem Leitfaden einrichten."
+      },
+      "item3": {
+        "tlte": "Holen Sie sich Dogecoin",
+        "text": "Es gibt viele Möglichkeiten, Dogecoin zu bekommen."
+      }
+    }
+  },
+  "socials": {
+    "title": "Tue jeden Tag nur Gutes.",
+    "text": "Der Dogecoin-Community liegt es am Herzen, sich gegenseitig zu unterstützen, freundlich zu sein, Menschen etwas über Kryptowährungen beizubringen, Spenden zu sammeln, Spaß zu haben, Memes zu erstellen und absurd zu sein. Dies wird durch den inoffiziellen Slogan von Dogecoin gut auf den Punkt gebracht: Jeden Tag nur Gutes tun. Beteiligen Sie sich über die folgenden Links an unserer großartigen Community:"
+  },
+  "tabs": {
+    "categories": {
+      "label1": "Häufig gestellte Fragen",
+      "label2": "Ressourcen",
+      "label3": "Anleitung",
+      "label4": "Dokumentation"
+    },
+    "tab1": {
+      "title": "Häufig gestellte Fragen",
+      "accordion": {
+        "acc1": {
+          "question": "Ein Wal besitzt fast 30 % des Dogecoin-Angebots! Stimmt das?",
+          "answer": "Eine häufige Quelle für FUD rund um Dogecoin ist die Behauptung, dass einige Wallets mit einem großen Anteil des Angebots privaten Investoren oder sogenannten „Walen“ gehören. Tatsächlich sind viele der größten Dogecoin-Wallets Cold Wallets oder Hot Wallets, die von … kontrolliert werden."
+        },
+        "acc2": {
+          "question": "Dogecoin hat keinen Nutzen!",
+          "answer": "Oh doch, und das schon immer! Die einfache Tatsache ist, dass Geld einen Nutzen hat – und Dogecoin ist Geld! Tatsächlich ist Dogecoin eine der wenigen Kryptowährungen, die von Anfang an als Zahlungsmittel verwendet wurde. Dogecoin war ursprünglich als Scherz gedacht – aber es hat seinen Zweck erfüllt und wird dies auch weiterhin tun …"
+        },
+        "acc3": {
+          "question": "Kann man Dogecoin begrenzen?",
+          "answer": "Derzeit und für die nächsten hundert Jahre oder so funktioniert Dogecoin wie die meisten anderen Krypto-Assets. „Begrenzte“ Vermögenswerte sind noch lange nicht vollständig abgebaut – und sie werden weiterhin ihr Angebot erhöhen, genau wie Dogecoin, in absehbarer Zukunft. Dogecoin …"
+        },
+        "acc4": {
+          "question": "Dogecoin und Coin Burning",
+          "answer": "Dogecoin benötigt keine Coin-Burning-Marketingmechanismen, die neue Token und andere Blockchains eingeführt haben, um ihre Preise künstlich in die Höhe zu treiben. Ganz einfach."
+        },
+        "acc5": {
+          "question": "Dogecoin hat keine Entwickler!",
+          "answer": "Oh doch, und das schon immer! Dogecoins Hauptzweck war es immer, als Währung verwendet zu werden. Billy Markus, der Dogecoin zusammen mit Jackson Palmer mitbegründete, war der einzige Entwickler der ersten Dogecoin Core-Versionen. Im Jahr 2014 verließen Billy und Jackson Dogecoin …"
+        }
+      }
+    },
+    "tab2": {
+      "text": "Eine Liste von Ressourcen, die von der Dogecoin-Community erstellt wurden und nützlich sein können, um mit Dogecoin zu arbeiten und es zu erforschen.",
+      "title": "Werkzeuge zur Überwachung und Erforschung von Dogecoin und seinem Netzwerk",
+      "list": {
+        "item1": "SoChain – Dogecoin-Blockchain-Explorer.",
+        "item2": "Dogechain – Dogecoin-Blockchain-Explorer.",
+        "item3": "Blockcypher – Dogecoin-Blockchain-Explorer.",
+        "item4": "Blockshibe – Überwachung der Arbeit von Minern und Mining-Pools.",
+        "item5": "Blockchair – Überwachung der Anzahl und Versionen von Dogecoin …"
+      },
+      "read": "Mehr lesen..."
+    },
+    "tab3": {
+      "title": "Anleitung",
+      "accordion": {
+        "acc1": {
+          "question": "Meme-Erstellung",
+          "answer": "Memes sind großartig und einfach zu erstellen! Es gibt viele Meme-Maker-Websites und sogar Meme-Apps, die du auf deinem Smartphone installieren kannst, um Memes unterwegs zu erstellen. Du kannst sogar noch einen Schritt weiter gehen und Dogecoin-bezogene Meme-Vorlagen erstellen, die die Möglichkeit haben, …"
+        },
+        "acc2": {
+          "question": "Dogecoin-Mining",
+          "answer": "Miner und Mining stehen im Mittelpunkt des Proof-of-Work-Konsensmechanismus von Dogecoin. Schau dir diese Dogepedia-Artikel an, um zu verstehen, was Miner tun, wie sie mit Nodes interagieren und warum Mining-Pools eine Rolle beim Mining spielen: Was ist ein Miner? Was ist Mining? …"
+        }
+      }
+    },
+    "tab4": {
+      "title": "Dokumentation",
+      "accordion": {
+        "acc1": {
+          "question": "Wie sichere ich ein Dogecoin-Wallet?",
+          "answer": "Ein Wallet ist einfach eine Sammlung von privaten und öffentlichen Schlüsseln. Jeder private Schlüssel des Wallets ist eine zufällige 256-Bit-Zahl, die einzigartig für dein Wallet ist, und er ist notwendig, um auf deine Coins zuzugreifen und sie auszugeben. Deine öffentliche Adresse – die Adresse, an die andere Dogecoin …"
+        },
+        "acc2": {
+          "question": "Wie kann ich ein Dogecoin-Entwickler werden?",
+          "answer": "Dogecoin ist ein Open-Source-Projekt, was bedeutet, dass jeder mit technischem Wissen zur technischen Entwicklung von Dogecoin beitragen kann. Selbst wenn du neu in diesem Bereich bist, ist es nie zu spät, neue Fähigkeiten zu erlernen! Dogecoin hat ein erstaunliches Team von Entwicklern und Freiwilligen, die …"
+        },
+        "acc3": {
+          "question": "Wie funktioniert Dogecoin?",
+          "answer": "Magie und Memes! (Nur ein Scherz. Fast.) Das Wichtigste zuerst: Dogecoin ist Geld. Wie andere beliebte Kryptowährungen funktioniert Dogecoin mithilfe der Blockchain-Technologie. Im Gegensatz zu vielen anderen Kryptowährungen sind jedoch die Gebühren für das Senden von Dogecoin extrem niedrig, und …"
+        },
+        "acc4": {
+          "question": "Was ist ein Mining-Pool?",
+          "answer": "Mining-Pools sind Dienste, die von Drittanbietern betrieben werden, die nicht mit Dogecoin verbunden sind. Sie ermöglichen es einer Gruppe von Minern, ihre Rechenleistung zu bündeln, um gemeinsam die „Rätsel“ zu lösen, die beim Mining von Dogecoin erforderlich sind. Die Mining-Belohnung beträgt 10.000 Dogecoin pro Block …"
+        },
+        "acc5": {
+          "question": "Wohltätigkeitsorganisationen, die Dogecoin akzeptieren",
+          "answer": "Die Geschichte von Dogecoin umfasst viele wohltätige Initiativen: von der Finanzierung sauberer Wasserbrunnen in Kenia im Jahr 2014 bis zur #TeamSeas-Initiative im Jahr 2021 – und viele weitere wertvolle Zwecke dazwischen. Im letzten Jahr gab es jedoch einen dramatischen Anstieg der Wohltätigkeitsorganisationen, die Dogecoin direkt akzeptieren …"
+        }
+      }
+    }
+  },
+  "moreAbout": {
+    "title": "Erfahren Sie mehr über Dogecoin",
+    "items": {
+      "item1": {
+        "title": "Stiftung",
+        "text": "Erfahren Sie mehr über die Dogecoin Foundation und ihren Fahrplan für Dogecoin!",
+        "linkText": "Besuchen ->"
+      },
+      "item2": {
+        "title": "Blogs",
+        "text": "Bleiben Sie auf dem Laufenden mit Blogbeiträgen der Stiftung-Entwickler!",
+        "linkText": "Besuchen ->"
+      },
+      "item3": {
+        "title": "Ankündigungen",
+        "text": "Ankündigungen der Dogecoin Foundation finden Sie hier.",
+        "linkText": "Besuchen ->"
+      },
+      "item4": {
+        "title": "IP-Häufige Fragen",
+        "text": "Lesen Sie unsere Antworten auf häufig gestellte Fragen zur Dogecoin-IP.",
+        "linkText": "Besuchen ->"
+      }
+    }
+  },
+  "footerItems": {
+    "item1": {
+      "text": "Der Shiba Inu ist eine japanische Hunderasse, die als Online-Meme popularisiert wurde und Dogecoin repräsentiert. Dogecoin wurde von Jackson Palmer und Shibetoshi Nakamoto erstellt."
+    },
+    "item2": {
+      "title": "Rechtliches",
+      "linkText": "Marken"
+    },
+    "item3": {
+      "title": "Sitemap",
+      "list": {
+        "listItem1": "Startseite",
+        "listItem2": "Was ist Dogecoin?",
+        "listItem3": "Viele Wallets",
+        "listItem4": "Starke Community",
+        "listItem5": "Dogepedia"
+      }
+    },
+    "item4": {
+      "title": "Stiftung",
+      "list": {
+        "listItem1": "Über uns",
+        "listItem2": "Manifest",
+        "listItem3": "Berater",
+        "listItem4": "Blog",
+        "listItem5": "Fahrplan"
+      }
+    }
+  },
+  "dogepediaTitle": "Dogepedia",
+  "goBack": "Zurück",
+  "dogepediaDesk": "Dogepedia ist die Ressource, die Dokumentation, Anleitungen, FAQs und Ressourcen rund um Dogecoin enthält. Der Ort für alle Shibes, die etwas über Dogecoin und Krypto lernen wollen. So viel Wissen! Wow!",
+  "documentation": "Dokumentation",
+  "howTos": "Anleitungen",
+  "faqFad": "FAQ & FUD",
+  "dogepedia": {
+    "title": "Dogecoin",
+    "description": "Die Grundlagen. Lernen Sie, was Dogecoin ist und wie es funktioniert.",
+    "items": {
+      "what_is_dogecoin": "Was ist Dogecoin?",
+      "history_of_dogecoin": "Was ist die Geschichte von Dogecoin?",
+      "how_dogecoin_works": "Wie funktioniert Dogecoin?",
+      "who_owns_dogecoin": "Wer besitzt und kontrolliert das Dogecoin-Netzwerk?",
+      "get_dogecoin": "Ich möchte Dogecoin! Wie bekomme ich es?"
+    },
+    "wallets": {
+      "title": "Wallets",
+      "description": "Ihre Reise mit Dogecoin beginnt hier. Eine Wallet-Anwendung ermöglicht es Ihnen, Ihre Doge zu speichern und auszugeben.",
+      "get_wallet": "Wie bekomme ich eine Wallet?",
+      "backup_wallet": "Wie sichere ich meine Wallet?",
+      "hardware_wallet": "Welche Vorteile hat eine Hardware-Wallet und wie benutzt man sie mit Doge?",
+      "recover_wallet": "Wie kann ich eine verlorene Wallet wiederherstellen?",
+      "what_is_wallet": "Was ist eine Wallet wirklich?"
+    },
+    "using_doge": {
+      "title": "Dogecoin nutzen",
+      "description": "Dogecoin ist eine Kryptowährung, mit der Sie Zahlungen senden und empfangen können.",
+      "send_receive_doge": "Wie sende und empfange ich Dogecoin?",
+      "buy_with_doge": "Wie kann ich Dogecoin verwenden, um in meinen Lieblingsgeschäften einzukaufen?",
+      "dogecoin_privacy": "Ist meine Privatsphäre bei der Nutzung von Dogecoin geschützt?"
+    },
+    "community": {
+      "title": "Community und Ökosystem",
+      "join_community": "Wie kann ich der Dogecoin-Community beitreten?",
+      "help_doge": "Wie kann ich helfen?",
+      "accept_dogecoin": "Wie kann mein Unternehmen Dogecoin akzeptieren?",
+      "merchants_dogecoin": "Welche Händler akzeptieren derzeit Dogecoin?",
+      "charities_dogecoin": "Welche Wohltätigkeitsorganisationen akzeptieren Dogecoin?",
+      "folding_at_home": "Was ist Dogecoin Folding Home?"
+    }
+  },
+  "resourcesDocList": {
+    "tools": {
+      "title": "Werkzeuge zur Überwachung und Untersuchung von Dogecoin und seinem Netzwerk",
+      "items": {
+        "sochain": "SoChain - Dogecoin-Blockchain-Explorer.",
+        "dogechain": "Dogechain - Dogecoin-Blockchain-Explorer.",
+        "blockcypher": "Blockcypher - Dogecoin-Blockchain-Explorer.",
+        "blockshibe": "Blockshibe - Überwachung der Arbeit von Minern und Mining-Pools.",
+        "blockchair": "Blockchair - Überwachung der Anzahl und Versionen der Dogecoin-Knoten im Netzwerk."
+      }
+    },
+    "shop_directories": {
+      "title": "Shop-Verzeichnisse",
+      "items": {
+        "shopdoge": "ShopDoge.xyz - Ein Verzeichnis von Geschäften, die Dogecoin akzeptieren.",
+        "cryptwerk": "Cryptwerk - Ein Verzeichnis von Geschäften, die Dogecoin akzeptieren."
+      }
+    },
+    "payment_providers": {
+      "title": "Drittanbieter von Zahlungsintegrationen",
+      "items": {
+        "coinbase": "Coinbase - Integration für WordPress und Shopify.",
+        "bitpay": "Bitpay - Integrationen für mehrere Plattformen."
+      }
+    },
+    "communities": {
+      "title": "Gemeinschaften",
+      "items": {
+        "reddit_dogecoin": "Die offizielle Dogecoin-Community auf Reddit.",
+        "reddit_dev": "Die offizielle Dogecoin-Entwickler-Community auf Reddit.",
+        "reddit_edu": "Die offizielle Dogecoin-Community zur Unterstützung neuer und erfahrener Shibes."
+      }
+    }
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "nav": {
+    "home": "So Home",
+    "whatIs": "What is Dogecoin?",
+    "wallets": "Much Wallets",
+    "community": "Very Community",
+    "dogepedia": "So Dogepedia",
+    "downList": {
+      "label1": "Documentation",
+      "label2": "FAQ",
+      "label3":"How Tos",
+      "label4":"Resources"
+    }
+  },
+  "frontPage": {
+    "dogespeak": "Such Core Wallet 1.14.9 released! Much upgrade, plz!",
+    "peoplecurency": "the people's cryptocurrency"
+  },
+  "whatIsDogecoin": {
+    "dogetitle": "What is Dogecoin?",
+    "description": {
+      "line1": "An open-source peer-to-peer digital currency, favoured by",
+      "line2": "Shiba Inus worldwide.",
+      "line3": "At its heart, Dogecoin is the accidental crypto movement that makes people smile! It is also an open-source peer-to-peer cryptocurrency that utilises blockchain technology, a highly secure decentralised system of storing information as a public ledger that is maintained by a network of computers called nodes.",
+      "line4": "More than this, though, is the ethos of Dogecoin, summarised in the",
+      "manifestoLink": "Dogecoin Manifesto",
+      "line5": "and its amazing, vibrant community made up of friendly folks just like you!",
+      "learnMore": "Learn More"
+    }
+  },
+  "gettingStarted": {
+    "title": "Getting Started",
+    "button": "Learn more.",
+    "items": {
+      "item1": {
+        "tlte": "Choose your wallet",
+        "text": "A wallet is necessary for people wanting to use, trade, or hold Dogecoin. You can pick a wallet"
+      },
+      "item2": {
+        "tlte": "Configure your wallet",
+        "text": "After downloading, you can configure your wallet according to our"
+      },
+      "item3": {
+        "tlte": "Get some Dogecoin",
+        "text": "There’s lots of ways to get your hands on some Dogecoin."
+      }
+    }
+  },
+  "socials": {
+    "title": "Do Only Good Everyday.",
+    "text": "The Dogecoin community cares about supporting each other, being kind, teaching people about cryptocurrency, fundraising, having fun, making memes, and being absurd. This is nicely captured by Dogecoin’s unofficial tagline: Do Only Good Everyday. Get involved in our awesome community via the below links:"
+  },
+  "tabs": {
+    "categories": {
+      "label1": "FAQ",
+      "label2": "Resources",
+      "label3": "How To",
+      "label4": "Documentation"
+    },
+    "tab1": {
+      "title": "FAQ",
+      "accordion": {
+        "acc1": {
+          "question": "A whale holds nearly 30% of Dogecoin supply! Is this true?",
+          "answer": "A common source of FUD surrounding Dogecoin is the claim that certain wallets holding a large percentage of the supply are owned by private investors or so-called “whales”. In reality, many of the top Dogecoin wallets are cold wallets or hot wallets controlled by …"
+        },
+        "acc2": {
+          "question": "Dogecoin has no utility!",
+          "answer": "Oh yes it does, and it always has! The simple fact is that money has utility - and Dogecoin is money! Indeed, Dogecoin is one of the few cryptocurrencies that has been used for this main purpose from day one. Dogecoin was first meant to be a joke - and it served, and will serve, …"
+        },
+        "acc3": {
+          "question": "Can you put a cap on Dogecoin?",
+          "answer": "Right now, and for the next hundred years or so, Dogecoin operates like, and will continue to operate like, most other crypto assets. “Capped” assets are nowhere near mined out – and will continue adding to their supply, just like Dogecoin, for the foreseeable future. Dogecoin’s …"
+        },
+        "acc4": {
+          "question": "Dogecoin and coin burning",
+          "answer": "Dogecoin does not need coin burning marketing mechanisms that new tokens and other chains have attempted to implement to artificially inflate their prices. Simplez."
+        },
+        "acc5": {
+          "question": "Dogecoin has no developers!",
+          "answer": "Oh, yes it does - and it always has! Dogecoin’s primary purpose has always been to be used as a currency. Billy Markus, co-creator of Dogecoin with Jackson Palmer, acted as a solo developer for the first Dogecoin Core releases. In 2014, Billy and Jackson left Dogecoin …"
+        }
+      }
+    },
+    "tab2": {
+      "text": "A list of resources created by shibes that can be useful to work with Dogecoin and to research it. ",
+      "title": "Tools to Monitor and Study Dogecoin and its Network ",
+      "list": {
+        "item1": "SoChain - Dogecoin chain explorer.",
+        "item2": "Dogechain - Dogecoin chain explorer.",
+        "item3": "Blockcypher - Dogecoin chain explorer.",
+        "item4": "Blockshibe - monitor the work of miners and mining pools.",
+        "item5": "Blockchair - monitor the number and versions of Dogecoin …"
+      },
+      "read": "Read more..."
+    },
+    "tab3": {
+      "title": "How To",
+      "accordion": {
+        "acc1": {
+          "question": "Making Memes",
+          "answer": "Memes are awesome, and they’re easy to make! There’s lots of meme maker websites, and even meme applications that you can install on your smartphone to makes memes on the run. You may even go one step further and create Dogecoin-themed meme templates which have a possibility of …"
+        },
+        "acc2": {
+          "question": "Mining Dogecoin",
+          "answer": "Miners and mining are at the center of Dogecoin’s Proof of Work consensus mechanism. Check these Dogepedia articles to understand what miners do, how they interact with nodes, and why mining pools come into play when it comes to mining: What is a miner? What is a mining …"
+        }
+      }
+    },
+    "tab4": {
+      "title": "Documentation",
+      "accordion": {
+        "acc1": {
+          "question": "How do I backup a Dogecoin wallet?",
+          "answer": "A wallet is just a collection of private keys and public keys. Each one of the wallet’s private keys is a randomised 256-bit number unique to your wallet, and it is what you need to be able to access and spend your coins. Your public address - the address which other Dogecoin …"
+        },
+        "acc2": {
+          "question": "How can I become a Dogecoin developer?",
+          "answer": "Dogecoin is an open-source project, meaning that anyone with some technical know-how can contribute to Dogecoin’s technical development. Even if you’re new to the space, it’s never too late to learn new tricks! Dogecoin has an amazing team of developers and volunteers who are …"
+        },
+        "acc3": {
+          "question": "How Does Dogecoin Work?",
+          "answer": "Magic and memes! (Just kidding. Kind of.) First things first: Dogecoin is money. Like other popular cryptocurrencies, Dogecoin works by utilising blockchain technology. Unlike a lot of other popular cryptocurrencies, though, the fees to send Dogecoin are extremely small, and the …"
+        },
+        "acc4": {
+          "question": "What is a mining pool?",
+          "answer": "Mining pools are services, operated by third parties not affiliated with Dogecoin, which allow a group of miners to combine their hashing power when attempting to solve the “puzzles” involved in mining Dogecoin. Mining rewards - consisting of 10,000 Dogecoin per block …"
+        },
+        "acc5": {
+          "question": "Charities Accepting Doge",
+          "answer": "Dogecoin’s history includes many charitable endeavours: from funding clean water wells in 2014 for Kenya, to the #TeamSeas initiative in 2021 – and many worthwhile causes in-between. The past year, though, has seen a dramatic increase in charities directly accepting Dogecoin …"
+        }
+      }
+    }
+  },
+  "moreAbout": {
+    "title": "Find out more about Dogecoin",
+    "items": {
+      "item1": {
+        "title": "Foundation",
+        "text": "Learn more about the Dogecoin Foundation and its Trailmap for Dogecoin!",
+        "linkText": "Visit ->"
+      },
+      "item2": {
+        "title": "Blogs",
+        "text": "Stay up to date with blog posts from Foundation Developers!",
+        "linkText": "Visit ->"
+      },
+      "item3": {
+        "title": "Announcements",
+        "text": "Announcements from the Dogecoin Foundation can be found here.",
+        "linkText": "Visit ->"
+      },
+      "item4": {
+        "title": "IP FAQs",
+        "text": "Read our responses to some frequently asked questions about Dogecoin IP.",
+        "linkText": "Visit ->"
+      }
+    }
+  },
+  "footerItems": {
+    "item1": {
+      "text": "The Shiba Inu is a Japanese breed of dog that was popularized as an online meme and represents Dogecoin. Dogecoin was created by Jackson Palmer & Shibetoshi Nakamoto."
+    },
+    "item2": {
+      "title": "Legal",
+      "linkText": "Trademarks"
+    },
+    "item3": {
+      "title": "Sitemap",
+      "list": {
+        "listItem1": "So Home",
+        "listItem2": "What is Dogecoin?",
+        "listItem3": "Much Wallets",
+        "listItem4": "Very Community",
+        "listItem5": "So Dogepedia"
+      }
+    },
+    "item4": {
+      "title": "Foundation",
+      "list": {
+        "listItem1": "About",
+        "listItem2": "Manifesto",
+        "listItem3": "Advisors",
+        "listItem4": "Blog",
+        "listItem5": "Trailmap"
+      }
+    }
+  },
+  "dogepediaTitle": "Dogepedia",
+  "goBack": "Much Go Back",
+  "dogepediaDesk": "Dogepedia is the resource containing Documentation, Guides, FAQs and Resources related to Dogecoin. The place to be for all shibes trying to learn about Dogecoin and crypto. Such knowledge! Much wow!",
+  "documentation": "Documentation",
+  "howTos": "How-Tos",
+  "faqFad": "FAQ & FUD",
+  "dogepedia": {
+    "title": "Dogecoin",
+    "description": "The basics. Learn what Dogecoin is, and how it works.",
+    "items": {
+      "what_is_dogecoin": "What is Dogecoin?",
+      "history_of_dogecoin": "What is the history of Dogecoin?",
+      "how_dogecoin_works": "How does Dogecoin work?",
+      "who_owns_dogecoin": "Who owns and controls the Dogecoin network?",
+      "get_dogecoin": "I want some Dogecoin! How can I get it?"
+    },
+    "wallets": {
+      "title": "Wallets",
+      "description": "Your journey with Dogecoin might start here. A wallet application allows you to save and spend your Doge.",
+      "get_wallet": "How do I get a wallet?",
+      "backup_wallet": "How do I backup my wallet?",
+      "hardware_wallet": "What are the benefits of a hardware wallet, and how to use it with Doge?",
+      "recover_wallet": "How do I recover a lost wallet?",
+      "what_is_wallet": "What is a wallet, really?"
+    },
+    "using_doge": {
+      "title": "Using your Doge",
+      "description": "Dogecoin is a cryptocurrency, and you can use it to send and receive payments.",
+      "send_receive_doge": "How do I send and receive Dogecoin?",
+      "buy_with_doge": "How can I use Dogecoin to buy stuff from my favorite stores?",
+      "dogecoin_privacy": "Is my privacy protected while using Dogecoin?"
+    },
+    "community": {
+      "title": "Community and Ecosystem",
+      "join_community": "How can I join the Dogecoin community?",
+      "help_doge": "How can I help?",
+      "accept_dogecoin": "How can my business accept Dogecoin?",
+      "merchants_dogecoin": "What merchants currently accept Dogecoin?",
+      "charities_dogecoin": "What are some charities that accept Dogecoin?",
+      "folding_at_home": "What is Dogecoin Folding Home?"
+    }
+  },
+  "resourcesDocList": {
+    "tools": {
+      "title": "Tools to Monitor and Study Dogecoin and its Network",
+      "items": {
+        "sochain": "SoChain - Dogecoin chain explorer.",
+        "dogechain": "Dogechain - Dogecoin chain explorer.",
+        "blockcypher": "Blockcypher - Dogecoin chain explorer.",
+        "blockshibe": "Blockshibe - monitor the work of miners and mining pools.",
+        "blockchair": "Blockchair - monitor the number and versions of Dogecoin nodes in the network."
+      }
+    },
+    "shop_directories": {
+      "title": "Shop Directories",
+      "items": {
+        "shopdoge": "ShopDoge.xyz - a directory of shops accepting Dogecoin.",
+        "cryptwerk": "Cryptwerk - a directory of shops accepting Dogecoin."
+      }
+    },
+    "payment_providers": {
+      "title": "Third Party Providers of Payment Integrations",
+      "items": {
+        "coinbase": "Coinbase - integration for Wordpress and Shopify.",
+        "bitpay": "Bitpay - integrations for multiple platforms."
+      }
+    },
+    "communities": {
+      "title": "Communities",
+      "items": {
+        "reddit_dogecoin": "The Official Dogecoin community on reddit.",
+        "reddit_dev": "The Official Dogecoin development community on reddit.",
+        "reddit_edu": "The Official Dogecoin community to help educating new and old shibes."
+      }
+    }
+  }
+}
