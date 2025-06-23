@@ -1,75 +1,59 @@
-# Nuxt Minimal Starter
+# Dogecoin Vue Website
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is a multi-language website built with [Nuxt 3](https://nuxt.com) and Vue 3. It serves as a hub for the Dogecoin community containing documentation, how‑to guides, frequently asked questions and more.
 
-## Setup
+The project uses:
 
-Make sure to install dependencies:
+- **PrimeVue** components with the Aura theme for UI elements
+- **Tailwind CSS** for styling
+- **@nuxtjs/i18n** to provide translations in English, French, German and Russian
+- **Google Fonts** for typography
+- Dark mode and language selection stored in local storage
+
+## Getting Started
+
+Install dependencies and run the development server:
 
 ```bash
-# npm
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
+The app will be available at `http://localhost:3000`.
 
-Build the application for production:
+### Other Package Managers
+
+You can also use `pnpm`, `yarn` or `bun` if preferred:
 
 ```bash
-# npm
+pnpm install && pnpm dev
+# or
+yarn install && yarn dev
+# or
+bun install && bun run dev
+```
+
+## Building for Production
+
+Create an optimized production build with:
+
+```bash
 npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
 ```
 
-Locally preview production build:
+Preview the production build locally:
 
 ```bash
-# npm
 npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## Project Structure
+
+- `pages/` – main pages such as the Dogepedia and Resources sections
+- `components/` – reusable Vue components including the navigation menu and footer
+- `i18n/` – locale files and i18n configuration
+- `assets/` – global styles and images
+
+## Deployment
+
+The site is statically generated and can be deployed to any static hosting service. See the [Nuxt deployment guide](https://nuxt.com/docs/getting-started/deployment) for more information.
